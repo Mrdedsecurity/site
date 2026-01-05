@@ -16,5 +16,5 @@ Increasingly threat actors are utilising Rust to create malware, some reasons fo
 ### IoC:
 1962cef10cf737300d04a23139122abcc8e8803e54dfcb63054140fbe549bed0
 
-**Reference**:
+### Reference:
 https://unit42.paloaltonetworks.com/analysis-pentest-tool-splinter/
