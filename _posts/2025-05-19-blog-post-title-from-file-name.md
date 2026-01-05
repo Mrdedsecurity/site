@@ -5,6 +5,8 @@
 - Currently, the researchers have not identified the developer behind the toolkit. Additionally, no threat actor has been observed using Splinter in the wild.
 - Features of Splinter includes, executing Windows commands, process injection, harvesting of account information and uploading files.
 
+-----
+
 **My thoughts**: While Splinter has not been observed in attacks in the wild, it highlights the importance of organisations needing to stay alert to the latest developments in tooling.
 
 Increasingly threat actors are utilising Rust to create malware, some reasons for this includes efficiency, difficulty to reverse engineer, and memory safety functionality.
