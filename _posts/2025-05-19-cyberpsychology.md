@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Cyberpsychology"
+image: /assets/images/cyberpsychology.webp
+---
+
+
 #  Cyberpsychology? What is it?
 ![Image of a brain looking very cybery.]({{ "/assets/images/cyberpsychology.webp" | relative_url }})
 
