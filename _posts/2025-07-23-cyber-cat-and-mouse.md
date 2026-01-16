@@ -32,7 +32,7 @@ LE entities typically exploit cyber security vulnerabilities and capitalise on p
 <p align="center"><em>Breach Forums seizure notice (May 15,2024) – https://intel471.com/blog/breachforums-saga-continues-whats-next </em></p>
 
 -----
-##LockBit seizure
+## LockBit seizure
 Several landmark actions have targeted the dark web. One particularly influential case inspired my dissertation is the seizure of the LockBit’s DLS.
 
 ![LockBit’s compromised DLS ](https://www.nationalcrimeagency.gov.uk/images/Feb2024/Leak_site.jpeg "LockBit’s compromised DLS")
