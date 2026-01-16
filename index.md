@@ -7,4 +7,4 @@ My main focus of my work is vulnerability disclosures, ethical hacking, threat i
 
 If you wish to contact me please contact me on my LinkedIn.
 
-Thanks for reading hope you enjoy!
+Thanks for reading, hope you enjoy!
