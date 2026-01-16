@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Splinter"
+image: /assets/images/languageoffraudsters.webp
+---
+
+
 # The Language of Fraudsters – A Modern-Day Fraudster’s Terminology Breakdown
 ![A pirate with some treasure.]({{ "/assets/images/languageoffraudsters.webp" | relative_url }})
 
