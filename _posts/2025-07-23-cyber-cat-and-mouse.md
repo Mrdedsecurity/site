@@ -1,4 +1,5 @@
-# Cyber Cat \& Mouse: Law Enforcement vs The Dark Web
+# Cyber Cat and Mouse: Law Enforcement vs The Dark Web
+
 ![Image of a cyber-looking cat and mouse.]({{ "/assets/images/cyber_cat_and_mouse.webp" | relative_url }})
 
 -----
