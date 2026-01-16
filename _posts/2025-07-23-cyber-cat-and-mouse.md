@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Post Title"
-image: /assets/images/my-post-image.jpg
+title: "Cyber Cat and Mouse"
+image: /assets/images/pirate.jpg
 ---
 
 
