@@ -1,10 +1,13 @@
 # The Language of Fraudsters – A Modern-Day Fraudster’s Terminology Breakdown
-![A pirate with some treasure.]({{ "/assets/images/pirate.png" | relative_url }})
+![A pirate with some treasure.]({{ "/assets/images/languageoffraudsters.webp" | relative_url }})
+
 -----
+
 ## Introduction
 The modern-day fraudster has developed their own slang and terminology, and while this language helps threat actors communicate and conduct operations; It can be difficult and alien for an us “good guys” to understand.
 
 Hopefully, this breakdown will help fill some of your knowledge gaps!
+
 -----
 ## Terminology
 Fullz: Full information, typically referring to a victim’s stolen bank card or identification.
@@ -40,6 +43,7 @@ White names: English white names, commonly requested to conduct fraud attacks.
 E-Whoring: Pretending to be a female online, tricking victims into sending money for adult content.
 
 Pig Butchering: A scam designed to drain all the financial funds a victim holds. (Also known as “Sha Zhu Pan”).
+
 -----
 ## Conclusion
 The above terms are just some seen in use amongst cybercrime locations. Want to learn more? Check out my [BSides Leeds](https://www.linkedin.com/company/bsidesleeds/) talk on [“Cyber Fraud Landscape”](https://www.youtube.com/watch?v=ApMlVz3iM1M) which is a great introduction to the landscape!
