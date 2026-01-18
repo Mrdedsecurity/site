@@ -146,3 +146,30 @@ a code {
 .post-list-heading {
   text-align: center !important;
 }
+
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  margin: 0;
+}
+
+.site-logo {
+  height: 34px;     
+  width: auto;
+  display: block;
+}
+
+.site-nav {
+  margin-left: auto;
+}
+
