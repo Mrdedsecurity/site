@@ -188,3 +188,13 @@ a code {
   align-items: center;
 }
 
+
+
+
+.site-title,
+.header-nav .page-link {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
