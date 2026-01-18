@@ -148,7 +148,7 @@ a code {
 }
 
 
-.site-header .wrapper {
+.site-header .header-wrap {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -160,16 +160,17 @@ a code {
   align-items: center;
   gap: 10px;
   text-decoration: none;
-  margin: 0;
 }
 
 .site-logo {
-  height: 100px;     
+  height: 34px;
   width: auto;
   display: block;
 }
 
-.site-nav {
-  margin-left: auto;
+.header-nav {
+  display: inline-flex;
+  gap: 16px;
+  align-items: center;
 }
 
