@@ -160,6 +160,7 @@ a code {
   align-items: center;
   gap: 10px;
   text-decoration: none;
+  font-size: 1.8rem;
 }
 
 .site-logo {
@@ -189,9 +190,6 @@ a code {
 }
 
 
-
-
-.site-title,
 .header-nav .page-link {
   font-size: 1.6rem;
   line-height: 1;
