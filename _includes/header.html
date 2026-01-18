@@ -1,5 +1,5 @@
 <header class="site-header" role="banner">
-  <div class="wrapper">
+  <div class="wrapper header-wrap">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.logo -%}
         <img class="site-logo" src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }} logo">
@@ -7,6 +7,10 @@
       <span class="site-title-text">{{ site.title | escape }}</span>
     </a>
 
-    {%- include navlinks.html -%}
+    <nav class="site-nav header-nav">
+      <a class="page-link" href="{{ '/about/' | relative_url }}">About</a>
+      <a class="page-link" href="{{ '/contact/' | relative_url }}">Contact</a>
+      <a class="page-link" href="{{ '/archive/' | relative_url }}">Archive</a>
+    </nav>
   </div>
 </header>
