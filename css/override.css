@@ -142,3 +142,7 @@ a code {
   display: block !important;
   margin: 16px auto !important;
 }
+
+.post-list-heading {
+  text-align: center !important;
+}
