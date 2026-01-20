@@ -3,7 +3,6 @@ hr {
   margin-bottom: 20px;
 }
 
-/* Post navigation links */
 .post_navi {
   display: flex;
 }
@@ -44,11 +43,14 @@ hr {
   opacity: 0.3;
 }
 
+/* Theme */
 html, body {
   background: #000 !important;
   color: #00ff00 !important;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-  "Liberation Mono", "Courier New", monospace !important;
+    "Liberation Mono", "Courier New", monospace !important;
+  -webkit-text-size-adjust: 100% !important;
+  text-size-adjust: 100% !important;
 }
 
 body {
@@ -74,15 +76,15 @@ h1, h2, h3, h4, h5, h6,
   font-family: inherit !important;
 }
 
-.site-nav .page-link {
-  color: #00ff00 !important;
-}
-
 a, a:visited {
   color: #00ff00 !important;
   text-decoration: underline !important;
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
+}
+
+a code {
+  text-decoration: underline !important;
 }
 
 pre, code {
@@ -91,11 +93,9 @@ pre, code {
   border-color: #003300 !important;
 }
 
-a code {
-  text-decoration: underline !important;
+.wrapper {
+  max-width: 70% !important;
 }
-
-.wrapper { max-width: 70% !important; }
 
 .post, .page {
   max-width: 100% !important;
@@ -112,9 +112,9 @@ a code {
 
 .post-list-item {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   align-items: center;
-  text-align: center;         
+  text-align: center;
 }
 
 .post-list-text {
@@ -130,23 +130,18 @@ a code {
   margin: 0 auto !important;
 }
 
-.post-content img {
-  display: block !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+.post-list-heading {
+  text-align: center !important;
 }
 
+/* Center images in posts/pages */
 .post-content img,
 .page-content img {
   display: block !important;
   margin: 16px auto !important;
 }
 
-.post-list-heading {
-  text-align: center !important;
-}
-
-
+/* Header (custom) */
 .site-header .header-wrap {
   display: flex;
   align-items: center;
@@ -162,88 +157,37 @@ a code {
 }
 
 .site-logo {
-  height: 100px;
+  height: 40px;
   width: auto;
   display: block;
 }
-
-.header-nav {
-  display: inline-flex;
-  gap: 16px;
-  align-items: center;
-}
-
-
-.site-header .header-wrap {
-  display: flex;
-  align-items: center;
-}
-
 
 .header-nav {
   margin-left: auto;
   display: inline-flex;
   gap: 16px;
   align-items: center;
-}
-
-@media screen and (max-width: 600px) {
-  .site-header .header-wrap {
-    display: flex !important;
-    flex-direction: row !important;
-    align-items: center !important;
-    flex-wrap: nowrap !important;
-    gap: 10px !important;
-  }
-
-  .site-title {
-    font-size: 1.1rem !important;
-    font-weight: 800 !important;
-    white-space: nowrap !important;
-  }
-
-  .site-logo {
-    height: 20px !important;
-  }
-
-  .header-nav {
-    margin-left: auto !important;
-    display: flex !important;
-    gap: 10px !important;
-    flex-wrap: nowrap !important;
-    white-space: nowrap !important;
-  }
-
-  .site-header .header-nav .page-link {
-    font-size: 14px !important;
-    font-weight: 700 !important;
-    line-height: 1 !important;
-    padding: 0 !important;
-    border: none !important;
-    text-decoration: underline !important;
-  }
-
-  .site-nav input,
-  .site-nav label {
-    display: none !important;
-  }
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
 }
 
 .header-nav .page-link {
   color: #00ff00 !important;
 }
 
+/* Mobile */
 @media screen and (max-width: 700px) {
   .site-header .header-wrap {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    gap: 6px !important;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
   }
 
   .site-title {
     font-size: 22px !important;
     line-height: 1.05 !important;
+    white-space: nowrap !important;
   }
 
   .site-logo {
@@ -252,21 +196,17 @@ a code {
 
   .header-nav {
     margin-left: 0 !important;
-    display: flex !important;
     gap: 14px !important;
     flex-wrap: nowrap !important;
     white-space: nowrap !important;
-    background: transparent !important;
-    border: 0 !important;
-    box-shadow: none !important;
   }
 
   .header-nav .page-link {
     font-size: 14px !important;
+    font-weight: 700 !important;
     line-height: 1 !important;
     padding: 0 !important;
     border: none !important;
     text-decoration: underline !important;
   }
 }
-
