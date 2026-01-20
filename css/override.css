@@ -57,7 +57,6 @@ body {
   letter-spacing: 0.2px;
 }
 
-
 .site-header,
 .site-footer,
 .page-content,
@@ -75,11 +74,9 @@ h1, h2, h3, h4, h5, h6,
   font-family: inherit !important;
 }
 
-
 .site-nav .page-link {
   color: #00ff00 !important;
 }
-
 
 a, a:visited {
   color: #00ff00 !important;
@@ -88,21 +85,15 @@ a, a:visited {
   text-underline-offset: 3px;
 }
 
-
-
 pre, code {
   background: #111 !important;
   color: #00ff00 !important;
   border-color: #003300 !important;
 }
 
-
 a code {
   text-decoration: underline !important;
 }
-
-
-
 
 .wrapper { max-width: 70% !important; }
 
@@ -125,7 +116,6 @@ a code {
   align-items: center;
   text-align: center;         
 }
-
 
 .post-list-text {
   text-align: center;
@@ -162,7 +152,6 @@ a code {
   align-items: center;
   justify-content: space-between;
 }
-
 
 .site-title {
   display: inline-flex;
@@ -202,5 +191,34 @@ a code {
 .header-nav .page-link {
   font-size: 1.6rem;
   line-height: 1;
+}
+
+@media screen and (max-width: 600px) {
+  .site-header {
+    padding: 6px 0 !important;
+    margin-bottom: 10px !important;
+  }
+
+  .site-header .header-wrap {
+    gap: 10px;
+  }
+
+  .site-title,
+  .header-nav .page-link {
+    font-size: 1.05rem !important;
+    font-weight: 800;
+  }
+
+  .site-logo {
+    height: 22px !important;
+  }
+
+  .header-nav {
+    gap: 10px !important;
+  }
+
+  .header-nav .page-link {
+    padding: 4px 6px !important;
+  }
 }
 
