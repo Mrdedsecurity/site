@@ -1,7 +1,7 @@
 # About Me
 
 -----
-Hello, I’m Jordan Powell, also known as MrDedSec. I am a Junior Penetration Tester at KPMG UK and a freelance Cyber Security Researcher. This site showcases my research and findings, which I hope you find insightful and engaging.
+Hello, I’m Jordan Powell, also known as MrDedSec. I am a Penetration Tester at KPMG UK and a freelance Cyber Security Researcher. This site showcases my research and findings, which I hope you find insightful and engaging.
 
 My work focuses primarily on vulnerability disclosure, ethical hacking, threat intelligence, OSINT, and more. I’m passionate about continuously learning and gaining hands-on experience across new areas of cybersecurity.
 
