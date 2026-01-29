@@ -1,17 +1,18 @@
 # About Me
 
 -----
+Hello, I’m Jordan Powell, also known as MrDedSec. I am a Junior Penetration Tester at KPMG UK and a freelance Cyber Security Researcher. This site showcases my research and findings, which I hope you find insightful and engaging.
 
-Hello. I am Jordan Powell, a.k.a. MrDedSec. I am a Junior Penetration Tester at KPMG UK and also freelance Cyber Security Researcher. This site contains my research and findings, which I hope you find interesting and insightful.
+My work focuses primarily on vulnerability disclosure, ethical hacking, threat intelligence, OSINT, and more. I’m passionate about continuously learning and gaining hands-on experience across new areas of cybersecurity.
 
-The main focus of my work is vulnerability disclosures, ethical hacking, threat intelligence, OSINT, and much more. I always enjoy learning about new subjects and getting hands-on experience.
+I have spoken at several conferences and events, including BSides Leeds and BSides Newcastle.
 
-I have spoken at several conferences and events, including BSides Leeds and Newcastle.
+I am an alumnus of Leeds Beckett University and previously served as President of the Leeds Beckett University Ethical Hacking Society.
 
-I am also an alumnus of Leeds Beckett University and have previously served as President of Leeds Beckett University’s Ethical Hacking Society.
+If you’d like to get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-powell1/).
 
-If you wish to contact me please contact me on my [LinkedIn](https://www.linkedin.com/in/jordan-powell1/).
+I’m always open to collaborations and new ideas.
 
-I am always open to collaborations and suggestions!
+Thanks for reading — I hope you enjoy my work!
 
-Thanks for reading, hope you enjoy!
+
