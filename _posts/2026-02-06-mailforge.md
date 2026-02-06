@@ -4,7 +4,7 @@ title: "MailForge: When Necessity and Laziness Meet"
 image: /assets/images/mailforge.png
 ---
 
-![MailForge Header Image]({{ "/assets/images/mailforge.png" | relative_url }}){: style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;"}
+![MailForge Header Image]({{ "/assets/images/mailforge.png" | relative_url }})
 
 ## Introduction
 Hello everyone! I hope you’re all enjoying the new site. I’m writing a quick article about a tool I recently developed called **MailForge**. It’s a Python script designed to parse messy data and transform it into structured email lists.
