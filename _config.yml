@@ -1,7 +1,7 @@
 title: "JPCyberSecurity"
 logo: /assets/images/cropped-jpcybersecurity.webp
 author: "Jordan Powell"
-description: "Hello, I’m Jordan Powell, also known as MrDedSec. I’m a Junior Penetration Tester at KPMG UK and a freelance cyber security researcher. This site showcases my research and findings, which I hope you find interesting and insightful." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Hello, I’m Jordan Powell, also known as MrDedSec. I’m a ProfessionalPenetration Tester and a freelance Cyber Security Researcher. This site showcases my research and findings, which I hope you find interesting and insightful." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 url: "https://mrdedsecurity.github.io"
 baseurl: "/site"
