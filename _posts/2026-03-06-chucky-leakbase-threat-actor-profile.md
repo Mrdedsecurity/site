@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Threat Actor Profile: \"Chucky\" – Administrator of LeakBase"
-image: /assets/images/chucky.jpg
+image: /assets/images/chucky.png
 ---
 
 ![Chucky – LeakBase Threat Actor Profile]({{ "/assets/images/chucky.png" | relative_url }})
