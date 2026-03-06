@@ -10,7 +10,7 @@ image: /assets/images/chucky.png
 
 <table style="width:100%; border-collapse: collapse; background-color: #0d0d0d; border: 1px solid #00ff41; font-family: 'Courier New', monospace; font-size: 0.9em;">
   <thead>
-    <tr style="background-color: #111;">
+    <tr style="background-color: #0d0d0d;">
       <th style="padding: 10px 14px; text-align: left; color: #00ff41; font-weight: bold; border-bottom: 2px solid #00ff41; width: 30%;">Attribute</th>
       <th style="padding: 10px 14px; text-align: left; color: #00ff41; font-weight: bold; border-bottom: 2px solid #00ff41;">Details</th>
     </tr>
