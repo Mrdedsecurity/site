@@ -30,7 +30,7 @@ image: /assets/images/chucky.png
     </tr>
     <tr style="background-color: #0d0d0d;">
       <td style="padding: 10px 14px; color: #ffffff; font-weight: bold; border-bottom: 1px solid #1f3d1f;">First Observed Activity</td>
-      <td style="padding: 10px 14px; color: #ffffff; border-bottom: 1px solid #1f3d1f;">Circa 2021</td>
+      <td style="padding: 10px 14px; color: #ffffff; border-bottom: 1px solid #1f3d1f;">2013</td>
     </tr>
     <tr style="background-color: #1a1a1a;">
       <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Primary Platform</td>
