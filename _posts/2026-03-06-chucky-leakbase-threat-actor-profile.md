@@ -4,7 +4,7 @@ title: "Threat Actor Profile: \"Chucky\" – Administrator of LeakBase"
 image: /assets/images/chucky.png
 ---
 
-![Chucky – LeakBase Threat Actor Profile]({{ "/assets/images/chucky.png" | relative_url }})
+<img src="{{ "/assets/images/chucky.png" | relative_url }}" alt="Chucky – LeakBase Threat Actor Profile" style="width:960px; max-width:100%; display:block; margin:0 auto 1.5em auto;">
 
 ## Threat Actor Summary
 
