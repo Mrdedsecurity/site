@@ -4,35 +4,76 @@ title: "Threat Actor Profile: \"Chucky\" – Administrator of LeakBase"
 image: /assets/images/chucky.jpg
 ---
 
-![Chucky – LeakBase Threat Actor Profile]({{ "/assets/images/chucky.jpg" | relative_url }})
+![Chucky – LeakBase Threat Actor Profile]({{ "/assets/images/chucky.png" | relative_url }})
 
 ## Threat Actor Summary
 
-| Attribute | Details |
-|---|---|
-| **Threat Actor Alias** | Chucky |
-| **Other Aliases** | Chuckies, Sqlrip, beakdaz |
-| **Primary Role** | Administrator of LeakBase cybercrime forum |
-| **First Observed Activity** | Circa 2021 |
-| **Primary Platform** | LeakBase cybercrime forum |
-| **Associated Platforms** | LeakBase and Telegram |
-| **Primary Activity** | Facilitation and distribution of breached databases, credential collections, and stealer logs |
-| **Operational Model** | Subscription-based access to leaked data and cybercrime marketplace services |
-| **Target Scope** | Global |
-| **Motivation** | Financial gain |
-| **Current Status** | Infrastructure dismantled during an international law enforcement operation in 2026 |
+<table style="width:100%; border-collapse: collapse; background-color: #0d0d0d; border: 1px solid #00ff41; font-family: 'Courier New', monospace; font-size: 0.9em;">
+  <thead>
+    <tr style="background-color: #111;">
+      <th style="padding: 10px 14px; text-align: left; color: #ffffff; font-weight: bold; border-bottom: 2px solid #00ff41; width: 30%;">Attribute</th>
+      <th style="padding: 10px 14px; text-align: left; color: #ffffff; font-weight: bold; border-bottom: 2px solid #00ff41;">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #1a1a1a;">
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Threat Actor Alias</td>
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Chucky</td>
+    </tr>
+    <tr style="background-color: #0d0d0d;">
+      <td style="padding: 10px 14px; color: #ffffff; font-weight: bold; border-bottom: 1px solid #1f3d1f;">Other Aliases</td>
+      <td style="padding: 10px 14px; color: #ffffff; border-bottom: 1px solid #1f3d1f;">Chuckies, Sqlrip, beakdaz</td>
+    </tr>
+    <tr style="background-color: #1a1a1a;">
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Primary Role</td>
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Administrator of LeakBase cybercrime forum</td>
+    </tr>
+    <tr style="background-color: #0d0d0d;">
+      <td style="padding: 10px 14px; color: #ffffff; font-weight: bold; border-bottom: 1px solid #1f3d1f;">First Observed Activity</td>
+      <td style="padding: 10px 14px; color: #ffffff; border-bottom: 1px solid #1f3d1f;">Circa 2021</td>
+    </tr>
+    <tr style="background-color: #1a1a1a;">
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Primary Platform</td>
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">LeakBase cybercrime forum</td>
+    </tr>
+    <tr style="background-color: #0d0d0d;">
+      <td style="padding: 10px 14px; color: #ffffff; font-weight: bold; border-bottom: 1px solid #1f3d1f;">Associated Platforms</td>
+      <td style="padding: 10px 14px; color: #ffffff; border-bottom: 1px solid #1f3d1f;">LeakBase and Telegram</td>
+    </tr>
+    <tr style="background-color: #1a1a1a;">
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Primary Activity</td>
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Facilitation and distribution of breached databases, credential collections, and stealer logs</td>
+    </tr>
+    <tr style="background-color: #0d0d0d;">
+      <td style="padding: 10px 14px; color: #ffffff; font-weight: bold; border-bottom: 1px solid #1f3d1f;">Operational Model</td>
+      <td style="padding: 10px 14px; color: #ffffff; border-bottom: 1px solid #1f3d1f;">Subscription-based access to leaked data and cybercrime marketplace services</td>
+    </tr>
+    <tr style="background-color: #1a1a1a;">
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Target Scope</td>
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: 1px solid #1f3d1f;">Global</td>
+    </tr>
+    <tr style="background-color: #0d0d0d;">
+      <td style="padding: 10px 14px; color: #ffffff; font-weight: bold; border-bottom: 1px solid #1f3d1f;">Motivation</td>
+      <td style="padding: 10px 14px; color: #ffffff; border-bottom: 1px solid #1f3d1f;">Financial gain</td>
+    </tr>
+    <tr style="background-color: #1a1a1a;">
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: none;">Current Status</td>
+      <td style="padding: 10px 14px; color: #00ff41; border-bottom: none;">Infrastructure dismantled during an international law enforcement operation in 2026</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## Introduction
 
 **"Chucky"** is a cybercriminal actor associated with the administration and operation of the cybercrime forum **LeakBase**, a platform dedicated to the distribution and sale of stolen databases and compromised credentials. The actor is believed to have become active around 2021, however, earlier indicators of online activity date to 2013 (Flare, 2023).
-![Chucky's profile.]({{ "/assets/images/Chucky1.png" | relative_url }})
+<img src="{{ "/assets/images/Chucky1.png" | relative_url }}" alt="Chucky's forum profile." style="width:100%; max-width:700px; display:block; margin:1em auto; border: 1px solid #00ff41;">
 
 Researchers published a detailed attribution analysis, assessing with high confidence that Chucky, the alias "beakdaz", and the LeakBase administrator are all the same individual — an actor linked to Taganrog, Russia, with cybercrime activity dating back to 2009 (KELA, 2026).
 
 It is speculated that Chucky operates from Russia. This assessment is based on researchers identifying a Skype account believed to be associated with the actor (Virus Bulletin, 2023).
-![Chucky's Skype.]({{ "/assets/images/chucky2.png" | relative_url }})
+<img src="{{ "/assets/images/chucky2.png" | relative_url }}" alt="Chucky's Skype account." style="width:100%; max-width:700px; display:block; margin:1em auto; border: 1px solid #00ff41;">
 
 LeakBase operated primarily as an English language forum that facilitated the exchange of compromised data between cybercriminal actors. The platform allowed users to share and sell breached datasets, including personal information, authentication credentials, and stealer logs collected from infected systems. By 2025, LeakBase reportedly had approximately **142,000 registered users**, highlighting its scale within the cybercrime ecosystem (Cybernews, 2025).
 
@@ -61,7 +102,7 @@ Data commonly hosted or distributed through LeakBase included:
 Many of these datasets originated from vulnerabilities in web applications, misconfigured databases, or successful network intrusions conducted by third-party threat actors (Computing, 2026).
 
 The forum employed a **tiered subscription model**, where users could pay for enhanced access to datasets or premium content. This monetisation model enabled Chucky and other administrators to generate revenue through the facilitation of illicit data trading.
-![LeakBase Homepage.]({{ "/assets/images/chucky3.png" | relative_url }})
+<img src="{{ "/assets/images/chucky3.png" | relative_url }}" alt="LeakBase homepage." style="width:100%; max-width:700px; display:block; margin:1em auto; border: 1px solid #00ff41;">
 
 LeakBase was also notable for being accessible on the **clear web**, rather than exclusively on the dark web, which reduced barriers to entry and broadened the platform's user base (Cybernews, 2025).
 
@@ -115,7 +156,7 @@ Chucky represents a type of cybercriminal actor whose role focuses primarily on 
 By operating LeakBase, the actor created an environment where stolen data could be easily distributed, monetised, and exchanged between threat actors. Platforms such as LeakBase contribute significantly to the cybercrime ecosystem by providing a structured marketplace that incentivises the theft and resale of sensitive information.
 
 The international law enforcement operation that dismantled LeakBase demonstrates an increasing emphasis on disrupting cybercriminal infrastructure, which can have broader impacts on the underground economy than targeting individual attackers alone.
-![LeakBase defacement.]({{ "/assets/images/leakbase.jpg" | relative_url }})
+<img src="{{ "/assets/images/leakbase.jpg" | relative_url }}" alt="LeakBase defacement page." style="width:100%; max-width:700px; display:block; margin:1em auto; border: 1px solid #00ff41;">
 
 However, given the persistent demand for compromised data within cybercrime communities, it is **highly likely** that similar forums and marketplaces will emerge to replace LeakBase, continuing the cycle of illicit data trading.
 
