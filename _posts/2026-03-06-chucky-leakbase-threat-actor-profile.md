@@ -164,9 +164,9 @@ However, given the persistent demand for compromised data within cybercrime comm
 
 ## References
 
-* KELA Cyber Intelligence Center. (2026). *Law enforcement seizes LeakBase.*
-* Computing. (2026). *Cybercrime forum LeakBase dismantled in international law enforcement operation.*
-* Cybernews. (2025). *LeakBase cybercrime forum taken down by authorities.*
-* Flare. (2023). *Top cybercrime forums monitored by threat intelligence analysts.*
-* SpyCloud. (2024). *Cybercrime underground activity update.*
-* Virus Bulletin. (2023). *Sheep's clothing: The deep dark web operators hiding in plain sight.*
+* KELA Cyber Intelligence Center. (2026). [*Law enforcement seizes LeakBase.*](https://www.kelacyber.com/blog/law-enforcement-seizes-leakbase-/)
+* Computing. (2026). [*Cybercrime forum LeakBase dismantled in international law enforcement operation.*](https://www.computing.co.uk/news/2026/security/cybercrime-forum-leakbase-dismantled)
+* Cybernews. (2025). [*LeakBase cybercrime forum taken down by authorities.*](https://cybernews.com/security/leakbase-shut-down-europol-us-police/)
+* Flare. (2023). [*Top cybercrime forums monitored by threat intelligence analysts.*](https://flare.io/learn/resources/blog/top-cybercrime-forums/)
+* SpyCloud. (2024). [*Cybercrime underground activity update.*](https://spycloud.com/resource/report/spycloud-annual-identity-exposure-report-2024/)
+* Virus Bulletin. (2023). [*Sheep's clothing: The deep dark web operators hiding in plain sight.*](https://www.virusbulletin.com/uploads/pdf/conference/vb2023/papers/Sheeps-clothing-of-deep-dark-web-operators-there-are-no-secrets-you-can-hide-forever.pdf)
